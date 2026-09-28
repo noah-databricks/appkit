@@ -6,6 +6,7 @@
     "apps/**",
     "docs"
   ],
+  "ignoreDependencies": ["@ast-grep/napi"],
   "workspaces": {
     "packages/appkit": {
       "ignoreDependencies": [
